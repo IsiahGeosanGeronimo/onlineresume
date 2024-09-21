@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Isiah Geosan D.G. Geronimo</h1>
+        <p>IT Student</p>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a IT Student at Baliwag Polytechnic College, 21 years old from Tilapayong Baliwag Bulacan</p>
+    </section>
+    <section id="hobbies">
+        <h2>Hobbies</h2>
+            <ul>
+                <li>Reading</li>
+                <li>Basketball</li>
+                <li>Sleeping</li>
+            </ul>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <h3>College</h3>
+        <ul>
+          <li>
+              <p>Baliwag Polytechnic College, Present</p>
+          </li>
+        </ul>
+        <h3>Senior High SChool</h3>
+        <ul>
+          <li>
+              <p>STI, 2018-2020</p>
+          </li>
+        </ul>
+        <h3>Junior High School</h3>
+        <ul>
+          <li>
+              <p>Sulivan National High School, 2015-2018</p>
+          </li>
+        </ul>
+        <h3>Elementary School</h3>
+        <ul>
+          <li>
+              <p>Tilapayong Elementary School, 2009-2015</p>
+          </li>
+        </ul>
+    </section>
+    <footer>
+        <h2>Email Address & Contact</h2>
+        <p>Email: is************3@gmail.com</p>
+        <p>Contact Number: (+63) 9********</p>
+    </footer>
+</body>
+</html>
